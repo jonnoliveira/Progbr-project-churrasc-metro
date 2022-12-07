@@ -12,15 +12,18 @@ In this project I can apply my acquired knowledge in HTML, CSS and JavaScript. :
 
 ## 1- RESUME
 
-In this project I use React and componentized the application for a better code structure.
+It's a simple project using HTML, CSS and JavaScript.
 
 I used the main HTML tags to assemble the structure of the display page and styled it by changing the positioning, size, fonts and colors of the components through the application of CSS. Already with JavaScript I was able to apply logic functionality to the application.
 
 This whole process was very important to understand in practice how the structure (HTML) of a page works, how the style (CSS) is applied to it and I was able to understand the best way to make a Layout and apply the Box Model concept. Furthermore, I was able to understand how programming logic helps us to create business rules for the benefit of the application.
+
+Improved responsiveness still needs to be implemented.
 #
 
 ## 2 - PREVIEW
-
+![project-churrascometro-1](./images/project-churrascometro-1.png)
+![project-churrascometo-2](./images/project-churrascometro-2.png)
 #
 
 ## 3 - ABOUT THE COURSE
