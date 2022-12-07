@@ -25,7 +25,6 @@ This whole process was very important to understand in practice how the structur
 
 ## 3 - ABOUT THE COURSE
 
-# About the course:
 Full stack web development course provided by Igor Oliveira.
 
 The content includes the following technologies and libraries:
